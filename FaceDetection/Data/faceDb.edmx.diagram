@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3e8f8c6b6e74430481b76a1b1917264d" Name="Diagram1">
+        <EntityTypeShape EntityType="FaceDBModel.User" Width="1.5" PointX="1.619358637192919" PointY="30.399979963153591" />
+        <EntityTypeShape EntityType="FaceDBModel.UserImage" Width="1.5" PointX="8.8622389048627763" PointY="0.49179986142171539" />
+        <AssociationConnector Association="FaceDBModel.FK_UserImage_User" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
