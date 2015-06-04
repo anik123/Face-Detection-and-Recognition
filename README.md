@@ -1,10 +1,10 @@
-# Image Detection and Recognition
+# Face Detection and Recognition
 
-For Image Detection 
+For Face Detection 
 
      Viola-Jones Algorithm
 
-For Image Recognition
+For Face Recognition
 
      PCA based Eigen Faces
 
